@@ -1,0 +1,39 @@
+Row Labels,Count of Customer ID,,Row Labels,Count of Customer ID,,Row Labels,Count of Customer ID
+Cancelled by Customer,10500,,AIIMS,918,,Ashram,936
+Cancelled by Driver,27000,,Badarpur,921,,Basai Dhankot,917
+Completed,93000,,Barakhamba Road,946,,Cyber Hub,912
+Incomplete,9000,,Dwarka Sector 21,914,,Kalkaji,912
+No Driver Found,10500,,Khandsa,949,,Kashmere Gate ISBT,909
+Grand Total,150000,,Madipur,919,,Lajpat Nagar,904
+,,,Mehrauli,915,,Lok Kalyan Marg,916
+,,,Pataudi Chowk,907,,Madipur,902
+,,,Pragati Maidan,920,,Narsinghpur,913
+,,,Saket,931,,Nehru Place,902
+,,,Grand Total,9240,,Udyog Vihar,906
+,,,,,,Grand Total,10029
+,,,,,,,
+,,,,,,,
+Row Labels,Count of Customer ID,,Row Labels,Count of Customer ID,,Row Labels,Count of Customer ID
+Jan,12861,,Cash,25367,,3,468
+Feb,11927,,Credit Card,10209,,3.1,1008
+Mar,12719,,Debit Card,8239,,3.2,881
+Apr,12199,,null,48000,,3.3,900
+May,12778,,Uber Wallet,12276,,3.4,928
+Jun,12440,,UPI,45909,,3.5,443
+Jul,12897,,Grand Total,150000,,3.6,1194
+Aug,12636,,,,,3.7,2354
+Sep,12248,,,,,3.8,2357
+Oct,12651,,,,,3.9,2370
+Nov,12394,,,,,4,1185
+Dec,12250,,,,,4.1,5396
+Grand Total,150000,,,,,4.2,10697
+,,,,,,4.3,10995
+,,,,,,4.4,5279
+,,,,,,4.5,5890
+Count of Customer ID,Sum of Booking Value,Average of Booking Value,,,,4.6,11533
+150000,51846183,508.2959118,,,,4.7,5763
+,,,,,,4.8,5880
+,,,,,,4.9,11642
+,,,,,,5,5837
+,,,,,,null,57000
+,,,,,,Grand Total,150000
